@@ -1,0 +1,74 @@
+/* menu.css */
+
+/* Change the background color of the menu bar */
+.navbar {
+  background-color: #364149;
+}
+
+/* Change the color of the menu links */
+.navbar .nav-link {
+  color: greenyellow;
+}
+ .nav-link {
+    color: red;
+  }
+  .badge-danger {
+  background-color: yellow; /* Reemplaza "#ff0000" con el color deseado */
+}
+.fa-search {
+  color: #ffffff; /* Cambia "#ffffff" a blanco o el color deseado */
+}
+.badge-danger.navbar-badge {
+  background-color: #ffffff; /* Cambia "#ffffff" al color blanco */
+  color: #000000; /* Cambia "#000000" al color negro */
+}
+.far.fa-bell {
+  color: #ffffff; /* Reemplaza "#ffffff" con el color blanco deseado */
+}
+.fas.fa-expand-arrows-alt {
+  color: #ffffff; /* Cambia "#ffffff" al color blanco deseado */
+}
+.fa-th-large {
+  color: #ffffff; /* Cambia "#ffffff" al color blanco deseado */
+}
+.brand-text {
+  color: #ffffff; /* Cambia "#ffffff" al color blanco */
+  font-weight: bold;
+}
+.main-footer {
+  background-color: #364149; /* Reemplaza "#ff0000" con el color deseado */
+  color: #ffffff; /* Cambia "#ffffff" al color de texto deseado */
+}
+footer {
+    background: #3B77E8;
+
+    height: 80px;
+   
+
+}
+
+      .image-frame {
+       border: 4px solid  white;
+      display: flex;
+    
+      border-radius: 10px;
+   margin: 30px 37px 15px 22px;
+   justify-content: space-between;
+    }
+   
+    .image-frame figure img {
+     border-radius: 30px;
+      width: 175px;
+      height: 200px;
+      
+   
+      
+    }
+    footer center figure img {
+    margin-top: 10px;
+    width: 50px;
+
+}
+.fa-youtube-play {
+  color: #ffffff; /* Cambia "#ffffff" al color blanco deseado */
+}
